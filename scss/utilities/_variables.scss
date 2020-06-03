@@ -1,0 +1,27 @@
+/* ========= VARIABLES =========== */
+// $color-primary: #d1fdf3;
+// $color-secondary: #51ddfc;
+// $color-tertiary: #58e1c1;
+
+$white: #fff;
+$black: #000;
+$grey: #878787;
+$foam: #d1fdf3;
+$malibu: #51ddfc;
+$viking: #58e1c1;
+
+/* ======== Functional color variables ======== */
+
+$color-primary: $foam;
+$color-secondary: $malibu;
+$color-tertiary: $viking;
+
+/* ========= font stacks =========== */
+
+$font-lato: 'Lato', sans-serif;
+
+/* ========= media queries =========== */
+$small: 330px;
+$medium: 768px;
+$large: 960px;
+$xlarge: 1024px;
